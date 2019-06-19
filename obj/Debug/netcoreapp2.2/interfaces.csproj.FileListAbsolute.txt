@@ -1,0 +1,11 @@
+C:\Users\tonyr\31backend\interfaces\bin\Debug\netcoreapp2.2\interfaces.deps.json
+C:\Users\tonyr\31backend\interfaces\bin\Debug\netcoreapp2.2\interfaces.runtimeconfig.json
+C:\Users\tonyr\31backend\interfaces\bin\Debug\netcoreapp2.2\interfaces.runtimeconfig.dev.json
+C:\Users\tonyr\31backend\interfaces\bin\Debug\netcoreapp2.2\interfaces.dll
+C:\Users\tonyr\31backend\interfaces\bin\Debug\netcoreapp2.2\interfaces.pdb
+C:\Users\tonyr\31backend\interfaces\obj\Debug\netcoreapp2.2\interfaces.csprojAssemblyReference.cache
+C:\Users\tonyr\31backend\interfaces\obj\Debug\netcoreapp2.2\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\tonyr\31backend\interfaces\obj\Debug\netcoreapp2.2\interfaces.AssemblyInfoInputs.cache
+C:\Users\tonyr\31backend\interfaces\obj\Debug\netcoreapp2.2\interfaces.AssemblyInfo.cs
+C:\Users\tonyr\31backend\interfaces\obj\Debug\netcoreapp2.2\interfaces.dll
+C:\Users\tonyr\31backend\interfaces\obj\Debug\netcoreapp2.2\interfaces.pdb
